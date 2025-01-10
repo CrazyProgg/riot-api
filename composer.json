@@ -1,5 +1,5 @@
 {
-	"name": "dolejska-daniel/riot-api",
+	"name": "crazyprogg/riot-api",
 	"type": "library",
 	"description": "RiotAPI PHP Wrapper Metapackage",
 	"keywords": ["riot", "league of legends", "data dragon", "api", "wrapper", "php7", "php8", "metapackage"],
